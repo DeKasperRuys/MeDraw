@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Medraw Umeasure</string>
+    <string name="log_in_string">Log in</string>
+    <string name="save_string">Save</string>
+    <string name="clear_string">Clear</string>
+    <string name="undo_string">Undo</string>
+    <string name="redo_string">Redo</string>
+    <string name="remove_string">Remove</string>
+    <string name="canvas_string">Canvas used to draw the lines.</string>
+    <string name="gallery_string">Gallery</string>
+    <string name="edit_data_string">Edit data</string>
+    <string name="load_to_canvas_string">Load to canvas</string>
+    <string name="ip">172.16.247.145</string>
+    <string name="required_data_string">Select the required data</string>
+    <string name="login_string">Login</string>
+    <string name="username_string">Username</string>
+    <string name="password_string">Password</string>
+    <string name="remember_me_string">Remember me</string>
+    <string name="no_account_string">Don\'t have an account yet?</string>
+    <string name="register_string">Register</string>
+    <string name="measurements_string">Measurements</string>
+    <string name="angles_string">Angles</string>
+    <string name="account_string">Account</string>
+    <string name="bluetooth_string">Bluetooth</string>
+    <string name="about_drawing_string">About the drawing:</string>
+    <string name="drawing_name_string">Enter a name for the drawing:</string>
+    <string name="add_drawing_string">Add drawing to database</string>
+</resources>

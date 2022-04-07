@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit_popup_item"
+        android:title="@string/edit_data_string" />
+
+    <item
+        android:id="@+id/load_popup_item"
+        android:title="@string/load_to_canvas_string" />
+
+</menu>
